@@ -8,11 +8,9 @@ Usa **el mismo motor y el mismo perfil** que aMule Modern: misma cola, mismos se
 
 ## Capturas
 
-| Descargas | Servidores |
+| Servidores | Ayuda (`?`) |
 |---|---|
-| ![Vista Descargas con la cola y la ficha del archivo](docs/capturas/descargas.png) | ![Vista Servidores con usuarios, archivos y ping](docs/capturas/servidores.png) |
-| **Órdenes con `/`** | **Ayuda (`?`)** |
-| ![Al escribir / aparece la lista de órdenes](docs/capturas/comandos.png) | ![Pantalla de ayuda con teclas y órdenes](docs/capturas/ayuda.png) |
+| ![Vista Servidores con usuarios, archivos y ping](docs/capturas/servidores.png) | ![Pantalla de ayuda con teclas y órdenes](docs/capturas/ayuda.png) |
 
 ## Uso
 
