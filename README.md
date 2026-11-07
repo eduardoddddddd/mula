@@ -1,8 +1,18 @@
 # mula
 
-Consola para manejar el aMule de [aMule Modern](../amule-modern) desde una terminal, sobre todo por SSH, cuando no hay escritorio remoto. Interfaz a pantalla completa al estilo Claude Code: pestañas, tablas, una caja de entrada abajo y órdenes con `/` que se autocompletan.
+Consola para manejar el aMule de [aMule Modern](https://github.com/eduardoddddddd/amule-modern) desde una terminal, sobre todo por SSH, cuando no hay escritorio remoto. Interfaz a pantalla completa al estilo Claude Code: pestañas, tablas, una caja de entrada abajo y órdenes con `/` que se autocompletan.
+
+![Búsqueda en mula: dos pestañas, la de «ubuntu iso» en vivo con la ficha del resultado seleccionado](docs/capturas/buscar.png)
 
 Usa **el mismo motor y el mismo perfil** que aMule Modern: misma cola, mismos servidores (`server.met` y la copia `server-snapshot.txt`), mismas carpetas de descarga (`IncomingDir`/`TempDir` de su `amule.conf`). No guarda configuración propia salvo las pestañas de búsqueda.
+
+## Capturas
+
+| Descargas | Servidores |
+|---|---|
+| ![Vista Descargas con la cola y la ficha del archivo](docs/capturas/descargas.png) | ![Vista Servidores con usuarios, archivos y ping](docs/capturas/servidores.png) |
+| **Órdenes con `/`** | **Ayuda (`?`)** |
+| ![Al escribir / aparece la lista de órdenes](docs/capturas/comandos.png) | ![Pantalla de ayuda con teclas y órdenes](docs/capturas/ayuda.png) |
 
 ## Uso
 
